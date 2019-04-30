@@ -1,0 +1,41 @@
+.image-right-table {
+	margin-top: 5px;
+	border-radius: 50%;
+}
+.right-content-one {
+	color : black !important;
+	font-size:14px;
+	font-weight:bold;
+}
+.right-content-two {
+	margin-top:10px;
+	color : black !important;
+	font-size:14px;
+	font-weight:bold;
+}
+.right-content-three {
+	color : 	#00B7EB !important;
+	font-size:14px;
+	font-weight:bold;
+}
+.right-content-four {
+	margin-top:10px;
+	color : black !important;
+	font-size:14px;
+	font-weight:bold;
+}
+.span1 {
+		color:	#00B7EB !important;
+}
+.span2 {
+	color:green !important;
+}
+.span3 {
+	color:red !important;
+}
+.span4 {
+	color:red !important;
+}
+.button-classname {
+	margin-top:30px !important;
+}
